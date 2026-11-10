@@ -1,0 +1,12 @@
+Disciplina: Soluções em Energias Renováveis e Sustentáveis (Global Solution 2026.2 - CitizenTech)
+Projeto: Citizen Assist Energia - Plantão Enchente (energia na falta de luz)
+
+Integrantes e RM:
+- Gabriel Barbosa Furin - RM 572941
+- Lucas Kiodi Moraca - RM 571004
+- Renan Fracalossi Mano da Silva - RM 569610
+
+Link do repositório GitHub: COLE AQUI
+Link do vídeo no YouTube (não listado): COLE AQUI
+
+Observação: repositório exclusivo desta disciplina; todo o conteúdo de energia (modelo, dados, cálculos e testes) está nele.

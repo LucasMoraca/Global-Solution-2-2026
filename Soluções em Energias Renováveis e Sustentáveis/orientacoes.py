@@ -3,6 +3,14 @@
 import modelo as m
 
 SEGURANCA = [
+    {"id": "ajuda", "titulo": "O que este assistente faz",
+     "palavras": ["isso", "assistente", "ajuda", "ajudar", "funciona", "serve", "voce", "comecar"],
+     "texto": ["Sou um assistente para quem fica sem energia elétrica durante enchentes. Respondo sobre segurança "
+               "(gerador e monóxido de carbono, quadro de luz alagado, fio caído, vela) e calculo energia, custo e CO2 "
+               "de três alternativas: gerador a gasolina, kit solar com bateria e power banks.",
+               "Exemplos: 'posso usar gerador na garagem?', 'painel solar funciona com chuva?', "
+               "'quantos power banks para 4 celulares e 3 dias?', 'quanto custa a gasolina do gerador?'."],
+     "fontes": []},
     {"id": "gerador_dentro", "titulo": "Gerador dentro de casa e monóxido de carbono",
      "palavras": ["gerador", "dentro", "garagem", "monoxido", "co", "fumaca", "ventilador", "janela", "varanda"],
      "texto": ["Nunca use gerador dentro de casa, garagem ou em local parcialmente fechado. Mantenha-o ao ar livre, "
@@ -19,6 +27,22 @@ SEGURANCA = [
      "palavras": ["fio", "cabo", "poste", "caido", "rede", "faisca", "choque"],
      "texto": ["Trate qualquer fio caído como energizado. Mantenha distância, avise a concessionária e a Defesa Civil "
                "e não tente mover o fio nem a água ao redor."],
+     "fontes": ["S1"]},
+    {"id": "carregador_enchente", "titulo": "Carregador portátil em enchente",
+     "palavras": ["carregador", "portatil", "powerbank", "molhado", "molhada", "seguro", "perigoso", "posso", "pode", "utilizar"],
+     "texto": ["Não tenho uma fonte oficial sobre usar power bank ou carregador portátil durante a enchente, "
+               "então não vou afirmar que é seguro ou não.",
+               "O que a orientação oficial diz (S1): em área alagada, não toque em equipamentos elétricos nem no quadro "
+               "de luz e espere a concessionária ou a Defesa Civil. Isso inclui carregar o celular em tomada da casa alagada.",
+               "Um power bank já carregado não depende da tomada. A ideia do cálculo do assistente é carregá-lo antes "
+               "da chuva. Para saber quantos você precisa, pergunte: 'quantos power banks para 4 celulares e 3 dias?'."],
+     "fontes": ["S1"]},
+    {"id": "recorrer", "titulo": "A quem recorrer sem energia e depois da enchente",
+     "palavras": ["recorrer", "recurso", "publico", "governo", "beneficio", "auxilio", "perdi", "tudo", "concessionaria", "telefone"],
+     "texto": ["Em risco imediato, ligue 199 (Defesa Civil) ou 193 (Bombeiros). Para falta de luz, fio caído ou "
+               "religação, a orientação oficial (S1) é avisar a concessionária de energia e a Defesa Civil.",
+               "Este assistente trata só de energia na falta de luz. Não tenho informações sobre benefícios, auxílios "
+               "ou programas públicos, então não vou indicar nenhum. Procure a Defesa Civil do seu município."],
      "fontes": ["S1"]},
     {"id": "vela", "titulo": "Vela ou lanterna",
      "palavras": ["vela", "velas", "lanterna", "luz", "iluminar", "lamparina", "fogo"],

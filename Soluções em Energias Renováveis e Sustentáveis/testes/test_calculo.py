@@ -137,6 +137,26 @@ class TestAssistente(unittest.TestCase):
     def test_busca_solar_chuva(self):
         self.assertEqual(busca.melhor("painel solar funciona com chuva?")["id"], "solar_chuva")
 
+    def test_carregador_portatil_em_enchente(self):
+        self.assertEqual(busca.melhor("Se eu estiver em uma enchete eu posso utilizar um carregador portátil?")["id"],
+                         "carregador_enchente")
+
+    def test_quantos_power_banks_continua_calculo(self):
+        self.assertEqual(busca.melhor("quantos power banks para 4 celulares e 3 dias?")["id"], "power_banks")
+
+    def test_busca_recorrer_nao_inventa_beneficio(self):
+        r = busca.melhor("perdi tudo e estou sem luz, a qual recurso publico posso recorrer?")
+        self.assertEqual(r["id"], "recorrer")
+        self.assertIn("Não tenho informações sobre benefícios", " ".join(r["texto"]))
+        self.assertEqual(busca.melhor("tem algum beneficio do governo?")["id"], "recorrer")
+
+    def test_busca_ajuda(self):
+        self.assertEqual(busca.melhor("o que é isso?")["id"], "ajuda")
+        self.assertEqual(busca.melhor("como funciona esse assistente")["id"], "ajuda")
+
+    def test_busca_gerador_nao_vira_ajuda(self):
+        self.assertEqual(busca.melhor("Durante a falta de energia e correto usar gerador?")["id"], "gerador_dentro")
+
     def test_busca_vazia_e_sem_resultado(self):
         self.assertIsNone(busca.melhor(""))
         self.assertIsNone(busca.melhor("qual a capital da França"))

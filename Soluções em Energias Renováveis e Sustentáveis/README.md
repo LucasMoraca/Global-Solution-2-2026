@@ -24,7 +24,7 @@ Requer Python 3.9 ou mais novo. Sem bibliotecas externas.
 ```
 python main.py                              # assistente (menu)
 python gerar_resultados.py                  # recria as tabelas em resultados/
-python -m unittest discover -s testes -v    # 31 testes
+python -m unittest discover -s testes -v    # 36 testes
 ```
 Exemplos de pergunta: "posso usar gerador na garagem?", "painel solar funciona com chuva?", "quanto custa a gasolina do gerador para 3 dias", "quantos power banks para 4 celulares e 3 dias".
 
@@ -44,6 +44,21 @@ Exemplos de pergunta: "posso usar gerador na garagem?", "painel solar funciona c
 | Kit solar (renovável) | R$ 6.079,00 | R$ 0 | 0 | R$ 6.079,00 |
 | Power banks + lanternas | R$ 730,00 | R$ 0 | 0 | R$ 730,00 |
 
+## Resultados dos testes
+**Testes automatizados:** `python -m unittest discover -s testes -v` roda 36 testes, todos passando (contas conferidas à mão, busca, orientações e os três ajustes feitos depois dos testes com pessoas).
+
+**Testes com usuários (07/11/2026):** 4 pessoas de fora do grupo, com 5 perguntas registradas. Duas foram respondidas direto e corretamente (gerador e vela); três mostraram lacunas ("o que é isso?", carregador portátil e a quem recorrer). Tempo por pessoa: 38 s, 1 min 01 s, 1 min 01 s e 36 s (média de 49 s). Um quinto teste (30 s) veio só com o tempo e não entra na contagem. Nota de facilidade não foi coletada.
+
+| Pergunta | Resultado do teste | Ajuste feito |
+|---|---|---|
+| "o que é isso?" | Sem resposta | Orientação `ajuda` |
+| Gerador em falta de energia | Correta | Nenhum |
+| Carregador portátil na enchente | Respondeu outra coisa (quantos power banks) | Orientação `carregador_enchente` |
+| A quem recorrer depois de perder tudo | Parcial (quadro de luz) | Orientação `recorrer` |
+| Acender vela | Correta | Nenhum |
+
+O reteste das mesmas perguntas no assistente atual (feito pela equipe) está em `docs/TESTES_USUARIOS.md`.
+
 ## Limitações
 Valores são **estimativas, não garantias**. Parâmetros estimados estão marcados em `parametros.json`. Preços consultados em 05/11/2026. Não há medição em campo. Veja `docs/ANALISE_ENERGETICA.md`.
 
@@ -52,3 +67,7 @@ Se este conteúdo for colocado no repositório do projeto das outras disciplinas
 
 ## IA generativa
 Usada como apoio na construção; dados, contas e referências foram conferidos pela equipe.
+
+## Links da entrega
+- Repositório GitHub: COLE AQUI
+- Vídeo no YouTube (não listado, até 3 min): COLE AQUI
