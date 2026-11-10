@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:08:46",
+    "sessao": "20261107-170556",
+    "origem": "pergunta",
+    "pergunta": "houve areas de enchente em são paulo em setembro de 2026?",
+    "id": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo": 157.8
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:09:42",
+    "sessao": "20261107-170556",
+    "origem": "pergunta",
+    "pergunta": "no dia de hoej ocorreu algum alerta de enchente na cidade de são paulo?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 48.0
+  },
+  {
+    "tipo": "avaliacao",
+    "sessao": "20261107-170556",
+    "data": "2026-11-07 17:10:27",
+    "nota_facilidade": 3
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:27:06",
+    "sessao": "20261107-172558",
+    "origem": "pergunta",
+    "pergunta": "Se eu estou em uma enchete eu devo sair do carro ?",
+    "id": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 63.5
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:27:56",
+    "sessao": "20261107-172558",
+    "origem": "pergunta",
+    "pergunta": "O gpverno me da beneficios se eu sofrer alguma enchete?",
+    "id": null,
+    "encontrou": false,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo": 46.4
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:28:42",
+    "sessao": "20261107-172558",
+    "origem": "pergunta",
+    "pergunta": "Se eu estiver quase submersa dentro do carro na enchete, o que fazer?",
+    "id": 6,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 41.4
+  },
+  {
+    "tipo": "avaliacao",
+    "sessao": "20261107-172558",
+    "data": "2026-11-07 17:29:03",
+    "nota_facilidade": 5
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:45:07",
+    "sessao": "20261107-174407",
+    "origem": "pergunta",
+    "pergunta": "Qual p estadp brasil;eiro que mais sofre com enchentes e qual; seu volujme pluviométrico anual?",
+    "id": null,
+    "encontrou": false,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo": 55.5
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:47:17",
+    "sessao": "20261107-174407",
+    "origem": "pergunta",
+    "pergunta": "A partir da minha localização stusl, me informe o local mais próximo onde eu possa me proteger de uma enchente",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 127.8
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 17:48:26",
+    "sessao": "20261107-174407",
+    "origem": "pergunta",
+    "pergunta": "Em caso de contato com a água de uma enchente, o que devo fazer? Ademias, perdi todos os meus ben smateriais e náo tenho mais onde morar, a quem posso recorrer?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 65.1
+  },
+  {
+    "tipo": "avaliacao",
+    "sessao": "20261107-174407",
+    "data": "2026-11-07 17:48:42",
+    "nota_facilidade": 2
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:02:38",
+    "sessao": "20261107-180115",
+    "origem": "pergunta",
+    "pergunta": "se a minha residencia for atingida por uma enchente, tenho cobertura do seguro ou da prefeitura?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 79.2
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:03:34",
+    "sessao": "20261107-180115",
+    "origem": "pergunta",
+    "pergunta": "qual a maior enchente da historia de sao paulo?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 55.4
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:04:09",
+    "sessao": "20261107-180115",
+    "origem": "pergunta",
+    "pergunta": "como socorrer uma pessoa em uma enxurrada?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 33.2
+  },
+  {
+    "tipo": "avaliacao",
+    "sessao": "20261107-180115",
+    "data": "2026-11-07 18:04:30",
+    "nota_facilidade": 5
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:13:23",
+    "sessao": "20261107-181247",
+    "origem": "pergunta",
+    "pergunta": "Como me defender de e uma enchente?",
+    "id": 5,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo": 32.7
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:13:43",
+    "sessao": "20261107-181247",
+    "origem": "pergunta",
+    "pergunta": "O que fazer se a enchente pegar você de carro",
+    "id": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 18.2
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-07 18:13:51",
+    "sessao": "20261107-181247",
+    "origem": "pergunta",
+    "pergunta": "Como deixar a água segura para beber depois da enchente",
+    "id": 8,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 5.8
+  },
+  {
+    "tipo": "avaliacao",
+    "sessao": "20261107-181247",
+    "data": "2026-11-07 18:13:57",
+    "nota_facilidade": 5
+  }
+]

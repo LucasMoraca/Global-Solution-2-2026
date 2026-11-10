@@ -1,0 +1,15 @@
+﻿data,sessao,origem,pergunta,id,encontrou,ajudou,tentativas,tempo,nota_facilidade
+2026-11-07 17:08:46,20261107-170556,pergunta,houve areas de enchente em são paulo em setembro de 2026?,6,True,True,3,157.8,3
+2026-11-07 17:09:42,20261107-170556,pergunta,no dia de hoej ocorreu algum alerta de enchente na cidade de são paulo?,5,True,True,1,48.0,3
+2026-11-07 17:27:06,20261107-172558,pergunta,Se eu estou em uma enchete eu devo sair do carro ?,6,True,True,1,63.5,5
+2026-11-07 17:27:56,20261107-172558,pergunta,O gpverno me da beneficios se eu sofrer alguma enchete?,,False,,1,46.4,5
+2026-11-07 17:28:42,20261107-172558,pergunta,"Se eu estiver quase submersa dentro do carro na enchete, o que fazer?",6,True,False,1,41.4,5
+2026-11-07 17:45:07,20261107-174407,pergunta,Qual p estadp brasil;eiro que mais sofre com enchentes e qual; seu volujme pluviométrico anual?,,False,,1,55.5,2
+2026-11-07 17:47:17,20261107-174407,pergunta,"A partir da minha localização stusl, me informe o local mais próximo onde eu possa me proteger de uma enchente",5,True,False,1,127.8,2
+2026-11-07 17:48:26,20261107-174407,pergunta,"Em caso de contato com a água de uma enchente, o que devo fazer? Ademias, perdi todos os meus ben smateriais e náo tenho mais onde morar, a quem posso recorrer?",5,True,False,1,65.1,2
+2026-11-07 18:02:38,20261107-180115,pergunta,"se a minha residencia for atingida por uma enchente, tenho cobertura do seguro ou da prefeitura?",5,True,False,1,79.2,5
+2026-11-07 18:03:34,20261107-180115,pergunta,qual a maior enchente da historia de sao paulo?,5,True,False,1,55.4,5
+2026-11-07 18:04:09,20261107-180115,pergunta,como socorrer uma pessoa em uma enxurrada?,5,True,False,1,33.2,5
+2026-11-07 18:13:23,20261107-181247,pergunta,Como me defender de e uma enchente?,5,True,False,1,32.7,5
+2026-11-07 18:13:43,20261107-181247,pergunta,O que fazer se a enchente pegar você de carro,6,True,True,1,18.2,5
+2026-11-07 18:13:51,20261107-181247,pergunta,Como deixar a água segura para beber depois da enchente,8,True,True,1,5.8,5
