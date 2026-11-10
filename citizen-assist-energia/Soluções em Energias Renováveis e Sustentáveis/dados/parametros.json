@@ -1,0 +1,247 @@
+{
+  "celular_wh": {
+    "valor": 19.25,
+    "unidade": "Wh por carga completa",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Bateria típica de 5.000 mAh × 3,85 V. Confira a do seu celular."
+  },
+  "celular_eficiencia_carga": {
+    "valor": 0.8,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Perda no carregador e na bateria."
+  },
+  "lampada_led_w": {
+    "valor": 8,
+    "unidade": "W",
+    "tipo": "dado público",
+    "fonte": "S5",
+    "nota": "Lâmpada LED de 8 W."
+  },
+  "horas_luz_noite": {
+    "valor": 5,
+    "unidade": "h por dia",
+    "tipo": "dado público",
+    "fonte": "S5",
+    "nota": "Uso médio de 5 h/dia usado na cartilha."
+  },
+  "lanterna_led_w": {
+    "valor": 3,
+    "unidade": "W",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Lanterna LED recarregável simples; ilumina menos que a lâmpada de 8 W."
+  },
+  "lanterna_preco": {
+    "valor": 40.0,
+    "unidade": "R$",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Preço estimado; não verificado em loja."
+  },
+  "geladeira_kwh_mes": {
+    "valor": 25.2,
+    "unidade": "kWh por mês",
+    "tipo": "dado público",
+    "fonte": "S5",
+    "nota": "Geladeira de 1 porta."
+  },
+  "gerador_preco": {
+    "valor": 1819.9,
+    "unidade": "R$",
+    "tipo": "dado público",
+    "fonte": "S7",
+    "nota": "Gerador B4T-2500, 2,2 kVA. Preço consultado em 05/11/2026."
+  },
+  "gerador_kva": {
+    "valor": 2.2,
+    "unidade": "kVA",
+    "tipo": "dado público",
+    "fonte": "S7",
+    "nota": ""
+  },
+  "gerador_ref_kva": {
+    "valor": 4.0,
+    "unidade": "kVA",
+    "tipo": "dado público",
+    "fonte": "S6",
+    "nota": "Ficha do B4T-5000."
+  },
+  "gerador_ref_tanque_l": {
+    "valor": 25,
+    "unidade": "L",
+    "tipo": "dado público",
+    "fonte": "S6",
+    "nota": ""
+  },
+  "gerador_ref_autonomia_h": {
+    "valor": 10,
+    "unidade": "h a 50% de carga",
+    "tipo": "dado público",
+    "fonte": "S6",
+    "nota": ""
+  },
+  "gerador_fator_potencia": {
+    "valor": 1.0,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Premissa para converter kVA em kW. Com fator menor, o consumo por kWh sobe."
+  },
+  "gerador_horas_dia": {
+    "valor": 2,
+    "unidade": "h por dia",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Gerador ligado em janelas curtas por causa do ruído e do combustível."
+  },
+  "gasolina_preco_poa": {
+    "valor": 5.91,
+    "unidade": "R$ por litro",
+    "tipo": "dado público",
+    "fonte": "S3",
+    "nota": "Porto Alegre, semana de 18 a 24/10/2026."
+  },
+  "gasolina_preco_br": {
+    "valor": 6.49,
+    "unidade": "R$ por litro",
+    "tipo": "dado público",
+    "fonte": "S3",
+    "nota": "Média Brasil, mesma semana."
+  },
+  "gasolina_densidade": {
+    "valor": 0.74,
+    "unidade": "kg por litro",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Valor típico."
+  },
+  "gasolina_fracao_carbono": {
+    "valor": 0.86,
+    "unidade": "fração em massa",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Valor típico; usado para estimar o CO2 pela química da combustão (44/12)."
+  },
+  "gasolina_fracao_fossil": {
+    "valor": 0.7,
+    "unidade": "fração",
+    "tipo": "dado público",
+    "fonte": "S10",
+    "nota": "Gasolina com 30% de etanol (E30); o CO2 do etanol é tratado como biogênico (S11)."
+  },
+  "kit_preco": {
+    "valor": 6079.0,
+    "unidade": "R$",
+    "tipo": "dado público",
+    "fonte": "S8",
+    "nota": "Anúncio com inconsistência de modelo; o preço real de mercado pode ser menor."
+  },
+  "kit_bateria_wh": {
+    "valor": 256,
+    "unidade": "Wh",
+    "tipo": "dado público",
+    "fonte": "S8",
+    "nota": "Bateria LFP, 3.000 ciclos acima de 80%."
+  },
+  "kit_painel_w": {
+    "valor": 110,
+    "unidade": "W",
+    "tipo": "dado público",
+    "fonte": "S8",
+    "nota": ""
+  },
+  "kit_profundidade_descarga": {
+    "valor": 0.9,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Parte da bateria que dá para usar."
+  },
+  "kit_eficiencia_saida_ac": {
+    "valor": 0.85,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Perda do inversor e da conversão."
+  },
+  "kit_eficiencia_painel_bateria": {
+    "valor": 0.9,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Perda do controlador de carga."
+  },
+  "solar_produtividade_poa": {
+    "valor": 3.6,
+    "unidade": "kWh por kWp por dia",
+    "tipo": "dado público",
+    "fonte": "S4",
+    "nota": "Média anual de Porto Alegre (1.303 kWh/kWp por ano)."
+  },
+  "clima_nublado": {
+    "valor": 0.75,
+    "unidade": "fração da produção média",
+    "tipo": "dado público",
+    "fonte": "S9",
+    "nota": "Nuvens sem chuva: queda de 10% a 25% (usamos o pior valor)."
+  },
+  "clima_denso": {
+    "valor": 0.4,
+    "unidade": "fração da produção média",
+    "tipo": "dado público",
+    "fonte": "S9",
+    "nota": "Nuvens densas: queda de 40% a 60% (usamos o pior valor)."
+  },
+  "clima_estresse": {
+    "valor": 0.1,
+    "unidade": "fração da produção média",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Cenário de estresse (tempestade forte), sem fonte; serve para testar o limite."
+  },
+  "banco_mah": {
+    "valor": 20000,
+    "unidade": "mAh",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Power bank típico de 20.000 mAh."
+  },
+  "banco_tensao_v": {
+    "valor": 3.7,
+    "unidade": "V",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Tensão nominal da célula."
+  },
+  "banco_eficiencia": {
+    "valor": 0.65,
+    "unidade": "fração",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Parte da energia nominal que chega ao celular."
+  },
+  "banco_preco": {
+    "valor": 130.0,
+    "unidade": "R$",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Preço estimado; não verificado em loja."
+  },
+  "eventos_por_ano": {
+    "valor": 1,
+    "unidade": "eventos",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Número de quedas de energia longas por ano, para o custo de 5 anos."
+  },
+  "anos_horizonte": {
+    "valor": 5,
+    "unidade": "anos",
+    "tipo": "estimado",
+    "fonte": "",
+    "nota": "Horizonte do custo total."
+  }
+}

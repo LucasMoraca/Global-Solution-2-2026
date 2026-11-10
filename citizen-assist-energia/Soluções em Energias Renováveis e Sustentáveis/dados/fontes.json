@@ -1,0 +1,62 @@
+{
+  "S1": {
+    "titulo": "Saiba como agir para evitar acidentes com energia elétrica durante eventos meteorológicos severos (Governo do RS, Secom, 17/07/2026)",
+    "url": "https://estado.rs.gov.br/saiba-como-agir-para-evitar-acidentes-com-energia-eletrica-durante-eventos-climaticos-severos",
+    "uso": "Orientações de segurança: alagamento, disjuntor, fios caídos, lanternas em vez de velas, religação"
+  },
+  "S2": {
+    "titulo": "Use geradores de maneira segura em casa (FEMA, agência federal dos EUA, 02/10/2022)",
+    "url": "https://fema.gov/pt-br/print/pdf/node/643989",
+    "uso": "Gerador só ao ar livre; ventilador não evita acúmulo de monóxido de carbono; alarme de CO"
+  },
+  "S3": {
+    "titulo": "Síntese Semanal de Preços dos Combustíveis, edição 43/2026 (ANP, semana de 18 a 24/10/2026)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arq-sintese-semanal/2026/sintese-precos-43.pdf",
+    "uso": "Preço médio da gasolina: Brasil R$ 6,49/L; Porto Alegre R$ 5,91/L"
+  },
+  "S4": {
+    "titulo": "Atlas Solar do Rio Grande do Sul (Governo do RS)",
+    "url": "https://estado.rs.gov.br/upload/arquivos/atlas-solar7.pdf",
+    "uso": "Produtividade fotovoltaica de Porto Alegre: 1.303 kWh/kWp por ano (3,6 kWh/kWp por dia), módulo inclinado a 25° voltado ao norte"
+  },
+  "S5": {
+    "titulo": "Guia Melhor Consumo (cartilha CEMIG), tabelas de consumo médio de eletrodomésticos",
+    "url": "https://portal.trt3.jus.br/internet/institucional/responsabilidade-socioambiental/download/voce-pode-fazer/GUIA_MELHOR_CONSUMO_CARTILHA_CEMIG.pdf",
+    "uso": "Lâmpada LED de 8 W (uso médio de 5 h/dia); geladeira de 1 porta: 25,2 kWh/mês"
+  },
+  "S6": {
+    "titulo": "Ficha técnica do Gerador a Gasolina B4T-5000 (Branco Motores)",
+    "url": "https://www.branco.com.br/content/dam/Product%20Catalog/Branco/pt_br/generators/FichaTecnica_Gerador_B4T-5000_BrancoMotores.pdf",
+    "uso": "Gerador de 4,0 kVA nominais, tanque de 25 L, autonomia de 10 h a 50% de carga (base do consumo específico de combustível)"
+  },
+  "S7": {
+    "titulo": "Gerador de energia a gasolina B4T 2500, 2,2 kVA (Loja do Mecânico), consultado em 05/11/2026",
+    "url": "https://www.lojadomecanico.com.br/produto/117556/33/326/gerador-de-energia-a-gasolina-b4t-2500-22kva-65cv-com-partida-manual-branco-90317110",
+    "uso": "Preço de referência R$ 1.819,90 e potência de 2,2 kVA"
+  },
+  "S8": {
+    "titulo": "Kit gerador de energia EcoFlow River 2 com painel solar portátil 110 W (Casas Bahia), consultado em 05/11/2026",
+    "url": "https://www.casasbahia.com.br/kit-gerador-de-energia-ecoflow-river-2-pro-127v-br-inclui-painel-solar-110w-portatil/p/1579479364",
+    "uso": "Preço de referência R$ 6.079,00; bateria de 256 Wh (LFP, 3.000 ciclos), saída de 300 W e painel de 110 W. O anúncio cita 'River 2 Pro' no título e 'River 2' no texto, então o preço é só uma referência de ordem de grandeza"
+  },
+  "S9": {
+    "titulo": "Producción solar en días nublados (Endesa, 10/02/2026)",
+    "url": "https://www.endesa.com/es/blog/blog-de-endesa/solar/produccion-solar-dias-nublados",
+    "uso": "Com nuvens sem chuva a produção cai de 10% a 25%; com nuvens densas, de 40% a 60%"
+  },
+  "S10": {
+    "titulo": "Governo eleva mistura do etanol na gasolina a 30% (Mercado & Consumo, 25/06/2025)",
+    "url": "https://mercadoeconsumo.com.br/25/06/2025/economia/governo-eleva-mistura-do-etanol-na-gasolina-a-30-e-a-do-biodiesel-no-diesel-a-15/amp/",
+    "uso": "Gasolina com 30% de etanol a partir de 01/08/2025 (decisão do CNPE)"
+  },
+  "S11": {
+    "titulo": "Cálculo de emissões da UFF (método IPCC 2006)",
+    "url": "https://uff.br/wp-content/uploads/2024/05/calculo_de_emissoes_da_uff_0.pdf",
+    "uso": "Método: CO2 do etanol da gasolina é biogênico e não entra na conta; volume é convertido em massa pela densidade"
+  },
+  "S12": {
+    "titulo": "Atualização das inundações no Rio Grande do Sul: 55 mil consumidores ainda sem energia (Cenário Energia, 31/05/2024, com dados da ANEEL)",
+    "url": "https://cenarioenergia.com.br/2024/05/31/atualizacao-das-inundacoes-no-rio-grande-do-sul-55-mil-consumidores-ainda-sem-energia/",
+    "uso": "Contexto: em 30/05/2024, cerca de 55 mil clientes seguiam sem energia no RS"
+  }
+}

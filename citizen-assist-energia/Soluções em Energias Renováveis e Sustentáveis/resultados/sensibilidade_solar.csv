@@ -1,0 +1,5 @@
+clima,fator,painel_wh_dia,disponivel_48h_wh,cobertura_pct,dias_cobertos
+dia médio do ano,1.00,302.94,801.72,100,sem limite
+nublado sem chuva (-25%),0.75,227.21,650.25,100,sem limite
+nuvens densas (-60%),0.40,121.18,438.19,100,3.6
+tempestade forte (estresse),0.10,30.29,256.43,73,1.3
