@@ -69,5 +69,5 @@ Se este conteúdo for colocado no repositório do projeto das outras disciplinas
 Usada como apoio na construção; dados, contas e referências foram conferidos pela equipe.
 
 ## Links da entrega
-- Repositório GitHub: COLE AQUI
-- Vídeo no YouTube (não listado, até 3 min): COLE AQUI
+- Repositório GitHub: https://github.com/LucasMoraca/Global-Solution-2-2026/blob/16434b760323c33f6336868daf77eec63be8d08f/Solu%C3%A7%C3%B5es%20em%20Energias%20Renov%C3%A1veis%20e%20Sustent%C3%A1veis/README.md
+- Vídeo no YouTube (não listado, até 3 min): https://youtu.be/g_-THu_7ARY?si=ladOon-KUO1Yavst
