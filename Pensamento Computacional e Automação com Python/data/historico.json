@@ -196,5 +196,29 @@
     "sessao": "20261107-181247",
     "data": "2026-11-07 18:13:57",
     "nota_facilidade": 5
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-10 10:27:48",
+    "sessao": "20261110-102707",
+    "origem": "pergunta",
+    "pergunta": "O que fazer se a enchente pegar você de carro",
+    "id": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo": 24.8
+  },
+  {
+    "tipo": "atendimento",
+    "data": "2026-11-10 10:28:31",
+    "sessao": "20261110-102707",
+    "origem": "pergunta",
+    "pergunta": "qual é a capital da França?",
+    "id": null,
+    "encontrou": false,
+    "ajudou": null,
+    "tentativas": 1,
+    "tempo": 37.9
   }
 ]
