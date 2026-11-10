@@ -28,7 +28,7 @@ Global Solution 2026.2 — FIAP, CitizenTech — Pensamento Computacional e Auto
 Precisa apenas de Python 3.8 ou mais novo (nenhuma biblioteca externa).
 
 ```bash
-git clone <link-do-repositorio>
+git clone <https://github.com/LucasMoraca/Global-Solution-2-2026/tree/a16ba3e5561297671acb6f0c3f4efc12f606731a/Pensamento%20Computacional%20e%20Automa%C3%A7%C3%A3o%20com%20Python>
 cd citizen-assist-ai
 python main.py
 ```
@@ -113,4 +113,4 @@ Testes feitos em 07/11/2026 com 5 pessoas de fora do grupo (sem nomes nem dados 
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): `COLE AQUI`
+Link (YouTube, não listado): `https://youtu.be/GazCjsA4tUk?si=dhUmITCZfFZyc2hj`
