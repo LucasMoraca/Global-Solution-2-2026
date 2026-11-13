@@ -1,0 +1,94 @@
+Carregados 16 registro(s) de servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Entrada inválida: digite apenas números inteiros.
+Opção: Valor fora do intervalo permitido (0 a 9).
+Opção: Digite um número.
+Opção: Valor fora do intervalo permitido (0 a 9).
+Opção: 
+--- Consultar por ID ---
+ID: Entrada inválida: digite apenas números inteiros.
+ID: Valor fora do intervalo permitido (1 a 999999).
+ID: Valor fora do intervalo permitido (1 a 999999).
+ID: Nenhum serviço encontrado com o ID 9999.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Pesquisar ---
+1. Por título (contém o texto)
+2. Por categoria (contém o texto)
+Escolha (1 ou 2): Valor fora do intervalo permitido (1 a 2).
+Escolha (1 ou 2): Entrada inválida: digite apenas números inteiros.
+Escolha (1 ou 2): Texto a procurar: 
+  ID   CATEGORIA                   TÍTULO
+  (nenhum resultado)
+Nenhum serviço encontrado para "zzzz". Tente outra palavra ou use a opção 7 para ver todos.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Cadastrar serviço (digite 0 no ID para cancelar) ---
+ID (número inteiro positivo): Já existe um serviço com o ID 5. Escolha outro ID.
+ID (número inteiro positivo): Título: Campo obrigatório: não pode ficar vazio.
+Título: Texto longo demais (máximo 100 caracteres).
+Título: Categoria: Descrição: Requisitos/documentos: Local de atendimento: Fonte: Serviço 200 cadastrado.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Excluir serviço ---
+ID do serviço a excluir: Serviço encontrado: [200] Cadastro inválido teste
+Confirma a exclusão? (s/n): Resposta inválida: digite s para sim ou n para não.
+Confirma a exclusão? (s/n): Exclusão cancelada.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Há alterações não salvas. Salvar antes de sair? (s/n): Resposta inválida: digite s para sim ou n para não.
+Há alterações não salvas. Salvar antes de sair? (s/n): Até logo!

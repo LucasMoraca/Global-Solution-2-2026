@@ -1,0 +1,30 @@
+Carregados 1 registro(s) de mistura.json (5 registro(s) inválido(s) ignorado(s)).
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+  ID   CATEGORIA                   TÍTULO
+  5    C                           T
+Total: 1 registro(s).
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Até logo!

@@ -1,0 +1,197 @@
+Carregados 16 registro(s) de servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+  ID   CATEGORIA                   TÍTULO
+  1    Alertas e emergência        Receber alertas da Defesa Civil por SMS, WhatsApp ou Telegram
+  2    Alertas e emergência        Receber alerta de emergência no celular (Defesa Civil Alerta)
+  3    Alertas e emergência        Para quem ligar em uma emergência (199, 193, 192, 190)
+  4    Antes e durante a enchente  Como se preparar antes da chuva forte
+  5    Antes e durante a enchente  O que fazer durante a enchente
+  6    Antes e durante a enchente  O que fazer se a enchente pegar você de carro
+  7    Antes e durante a enchente  Quando voltar para casa depois de evacuar
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+  9    Saúde depois da enchente    Quais alimentos jogar fora depois da enchente
+  10   Saúde depois da enchente    Leptospirose: como evitar e quando procurar atendimento
+  11   Saúde depois da enchente    Ferimentos, tétano e animais peçonhentos na limpeza
+  12   Saúde depois da enchente    Diarreia e outros sintomas depois da enchente
+  13   Saúde depois da enchente    Cuidar da saúde mental depois da enchente
+  14   Dinheiro e documentos       Saque Calamidade do FGTS: quem pode e quais documentos levar
+  15   Dinheiro e documentos       Saque Calamidade do FGTS: como pedir, valor e prazo
+  16   Dinheiro e documentos       Pedir a segunda via do cartão de CPF perdido
+Total: 16 registro(s).
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Consultar por ID ---
+ID: 
+[ID 5] O que fazer durante a enchente
+  Categoria : Antes e durante a enchente
+  Descrição : Evite contato com a água da enchente, que pode causar doenças. Se estiver em local seguro, não saia. Não atravesse ruas alagadas: você pode ser arrastado pela água. Cuidado com buracos e bueiros sem tampa ou cobertos pela água. Use calçado, calça comprida e blusa. Não deixe crianças brincarem na enxurrada ou em córregos. Se a água estiver subindo, leve a família para um lugar seguro. Se precisar retirar algo de casa depois da inundação, peça ajuda à Defesa Civil ou ao Corpo de Bombeiros.
+  Requisitos: Nenhum documento informado pela fonte
+  Local     : Local seguro e alto; em caso de risco, ligue 199 (Defesa Civil) ou 193 (Bombeiros)
+  Fonte     : https://prefeitura.sp.gov.br/web/defesa_civil/w/cuidados_importantes/179951 (verificado em 04/11/2026)
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Pesquisar ---
+1. Por título (contém o texto)
+2. Por categoria (contém o texto)
+Escolha (1 ou 2): Texto a procurar: 
+  ID   CATEGORIA                   TÍTULO
+  5    Antes e durante a enchente  O que fazer durante a enchente
+  6    Antes e durante a enchente  O que fazer se a enchente pegar você de carro
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+  9    Saúde depois da enchente    Quais alimentos jogar fora depois da enchente
+  12   Saúde depois da enchente    Diarreia e outros sintomas depois da enchente
+  13   Saúde depois da enchente    Cuidar da saúde mental depois da enchente
+6 resultado(s). Use a opção 2 com o ID para ver os detalhes.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Pesquisar ---
+1. Por título (contém o texto)
+2. Por categoria (contém o texto)
+Escolha (1 ou 2): Texto a procurar: 
+  ID   CATEGORIA                   TÍTULO
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+  9    Saúde depois da enchente    Quais alimentos jogar fora depois da enchente
+  10   Saúde depois da enchente    Leptospirose: como evitar e quando procurar atendimento
+  11   Saúde depois da enchente    Ferimentos, tétano e animais peçonhentos na limpeza
+  12   Saúde depois da enchente    Diarreia e outros sintomas depois da enchente
+  13   Saúde depois da enchente    Cuidar da saúde mental depois da enchente
+6 resultado(s). Use a opção 2 com o ID para ver os detalhes.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Pesquisar ---
+1. Por título (contém o texto)
+2. Por categoria (contém o texto)
+Escolha (1 ou 2): Texto a procurar: 
+  ID   CATEGORIA                   TÍTULO
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+1 resultado(s). Use a opção 2 com o ID para ver os detalhes.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Ordenar (Merge Sort) ---
+1. Por ID
+2. Por título
+3. Por categoria
+Escolha (1 a 3): Lista ordenada.
+
+  ID   CATEGORIA                   TÍTULO
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+  4    Antes e durante a enchente  Como se preparar antes da chuva forte
+  13   Saúde depois da enchente    Cuidar da saúde mental depois da enchente
+  12   Saúde depois da enchente    Diarreia e outros sintomas depois da enchente
+  11   Saúde depois da enchente    Ferimentos, tétano e animais peçonhentos na limpeza
+  10   Saúde depois da enchente    Leptospirose: como evitar e quando procurar atendimento
+  5    Antes e durante a enchente  O que fazer durante a enchente
+  6    Antes e durante a enchente  O que fazer se a enchente pegar você de carro
+  3    Alertas e emergência        Para quem ligar em uma emergência (199, 193, 192, 190)
+  16   Dinheiro e documentos       Pedir a segunda via do cartão de CPF perdido
+  9    Saúde depois da enchente    Quais alimentos jogar fora depois da enchente
+  7    Antes e durante a enchente  Quando voltar para casa depois de evacuar
+  2    Alertas e emergência        Receber alerta de emergência no celular (Defesa Civil Alerta)
+  1    Alertas e emergência        Receber alertas da Defesa Civil por SMS, WhatsApp ou Telegram
+  15   Dinheiro e documentos       Saque Calamidade do FGTS: como pedir, valor e prazo
+  14   Dinheiro e documentos       Saque Calamidade do FGTS: quem pode e quais documentos levar
+Total: 16 registro(s).
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+=== ANÁLISE DOS SERVIÇOS CADASTRADOS ===
+Total de registros: 16
+Categorias: 4
+
+Saúde depois da enchente       6  ( 37.5%) ######
+Antes e durante a enchente     4  ( 25.0%) ####
+Alertas e emergência           3  ( 18.8%) ###
+Dinheiro e documentos          3  ( 18.8%) ###
+
+Categoria com mais registros: Saúde depois da enchente (6)
+Categoria com menos registros: Alertas e emergência (3)
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Há alterações não salvas. Salvar antes de sair? (s/n): Até logo!

@@ -1,0 +1,67 @@
+Carregados 16 registro(s) de servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Cadastrar serviço (digite 0 no ID para cancelar) ---
+ID (número inteiro positivo): Cadastro cancelado.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Cadastrar serviço (digite 0 no ID para cancelar) ---
+ID (número inteiro positivo): Título: Texto longo demais (máximo 100 caracteres).
+Título: Categoria: Descrição: Requisitos/documentos: Local de atendimento: Fonte: Serviço 400 cadastrado.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Consultar por ID ---
+ID: 
+[ID 400] Título curto
+  Categoria : Cat
+  Descrição : Desc
+  Requisitos: Req
+  Local     : Local
+  Fonte     : Fonte
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Há alterações não salvas. Salvar antes de sair? (s/n): 17 registro(s) salvo(s) em servicos.json.
+Até logo!

@@ -1,0 +1,18 @@
+Carregados 16 registro(s) de servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Cadastrar serviço (digite 0 no ID para cancelar) ---
+ID (número inteiro positivo): Título: Categoria: 
+Entrada encerrada.
+Até logo!

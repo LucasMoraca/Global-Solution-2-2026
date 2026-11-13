@@ -1,0 +1,187 @@
+Carregados 16 registro(s) de servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Cadastrar serviço (digite 0 no ID para cancelar) ---
+ID (número inteiro positivo): Já existe um serviço com o ID 5. Escolha outro ID.
+ID (número inteiro positivo): Título: Categoria: Descrição: Requisitos/documentos: Local de atendimento: Fonte: Serviço 100 cadastrado.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Consultar por ID ---
+ID: 
+[ID 100] Serviço de teste
+  Categoria : Categoria teste
+  Descrição : Descrição de teste
+  Requisitos: Documento de teste
+  Local     : Local de teste
+  Fonte     : Fonte de teste
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Atualizar serviço ---
+ID do serviço a atualizar: 
+[ID 100] Serviço de teste
+  Categoria : Categoria teste
+  Descrição : Descrição de teste
+  Requisitos: Documento de teste
+  Local     : Local de teste
+  Fonte     : Fonte de teste
+
+Digite o novo valor ou apenas Enter para manter o atual (o ID não muda).
+Novo título: Nova categoria: Nova descrição: Novos requisitos: Novo local: Nova fonte: Serviço 100 atualizado.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Consultar por ID ---
+ID: 
+[ID 100] Título atualizado
+  Categoria : Categoria teste
+  Descrição : Descrição de teste
+  Requisitos: Documento de teste
+  Local     : Local de teste
+  Fonte     : Fonte de teste
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Excluir serviço ---
+ID do serviço a excluir: Serviço encontrado: [100] Título atualizado
+Confirma a exclusão? (s/n): Exclusão cancelada.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Excluir serviço ---
+ID do serviço a excluir: Serviço encontrado: [100] Título atualizado
+Confirma a exclusão? (s/n): Serviço 100 excluído.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+--- Consultar por ID ---
+ID: Nenhum serviço encontrado com o ID 100.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 
+  ID   CATEGORIA                   TÍTULO
+  1    Alertas e emergência        Receber alertas da Defesa Civil por SMS, WhatsApp ou Telegram
+  2    Alertas e emergência        Receber alerta de emergência no celular (Defesa Civil Alerta)
+  3    Alertas e emergência        Para quem ligar em uma emergência (199, 193, 192, 190)
+  4    Antes e durante a enchente  Como se preparar antes da chuva forte
+  5    Antes e durante a enchente  O que fazer durante a enchente
+  6    Antes e durante a enchente  O que fazer se a enchente pegar você de carro
+  7    Antes e durante a enchente  Quando voltar para casa depois de evacuar
+  8    Saúde depois da enchente    Como deixar a água segura para beber depois da enchente
+  9    Saúde depois da enchente    Quais alimentos jogar fora depois da enchente
+  10   Saúde depois da enchente    Leptospirose: como evitar e quando procurar atendimento
+  11   Saúde depois da enchente    Ferimentos, tétano e animais peçonhentos na limpeza
+  12   Saúde depois da enchente    Diarreia e outros sintomas depois da enchente
+  13   Saúde depois da enchente    Cuidar da saúde mental depois da enchente
+  14   Dinheiro e documentos       Saque Calamidade do FGTS: quem pode e quais documentos levar
+  15   Dinheiro e documentos       Saque Calamidade do FGTS: como pedir, valor e prazo
+  16   Dinheiro e documentos       Pedir a segunda via do cartão de CPF perdido
+Total: 16 registro(s).
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: 16 registro(s) salvo(s) em servicos.json.
+
+===== CITIZEN ASSIST AI - SERVIÇOS AO CIDADÃO (Plantão Enchente) =====
+ 1. Cadastrar
+ 2. Consultar por ID
+ 3. Atualizar
+ 4. Excluir
+ 5. Pesquisar (título ou categoria)
+ 6. Ordenar
+ 7. Listar todos
+ 8. Análise (quantidade por categoria)
+ 9. Salvar em arquivo
+ 0. Encerrar
+Opção: Até logo!

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "titulo": "Receber alertas da Defesa Civil por SMS, WhatsApp ou Telegram",
+    "categoria": "Alertas e emergência",
+    "descricao": "O cadastro é gratuito. Por SMS, envie uma mensagem para 40199 com o CEP da área que você quer acompanhar. Pelo WhatsApp, salve o número 61 2034-4611, mande um \"olá\" para o robô de alertas e siga os passos para cadastrar as áreas. No Telegram, procure o contato \"Defesa Civil Alertas\" e faça o mesmo. Na TV por assinatura, os avisos aparecem sozinhos durante a programação, sem cadastro.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "SMS 40199, WhatsApp 61 2034-4611 ou Telegram \"Defesa Civil Alertas\"",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-cadastro-para-recebimento-de-avisos-e-alertas-de-desastres (verificado em 04/11/2026)"
+  },
+  {
+    "id": 2,
+    "titulo": "Receber alerta de emergência no celular (Defesa Civil Alerta)",
+    "categoria": "Alertas e emergência",
+    "descricao": "O Defesa Civil Alerta manda avisos de emergência direto para o celular, sem cadastro. A mensagem aparece por cima do que você estiver usando e, em alertas extremos, toca um sinal sonoro mesmo no silencioso. Funciona em celulares compatíveis (em geral, lançados a partir de 2020) ligados à rede móvel 4G ou 5G; não funciona em modo avião, só com Wi-Fi ou sem sinal. Para conferir no Android: Configurações > Segurança e emergência > Alertas de emergência sem fio. No iPhone: Ajustes > Notificações > Alertas de Governo. O serviço é gratuito; cobrança em nome de operadoras ou instituições pode ser golpe.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "No próprio celular, nas configurações de alertas de emergência",
+    "fonte": "https://www.gov.br/mdr/pt-br/assuntos/protecao-e-defesa-civil/defesa-civil-alerta (verificado em 04/11/2026)"
+  },
+  {
+    "id": 3,
+    "titulo": "Para quem ligar em uma emergência (199, 193, 192, 190)",
+    "categoria": "Alertas e emergência",
+    "descricao": "Ligue 199 para a Defesa Civil em desastres e riscos, como enchentes e deslizamentos. Ligue 193 para o Corpo de Bombeiros em incêndios, acidentes, resgates e salvamentos. Ligue 192 para o SAMU em urgências médicas. Ligue 190 para a Polícia Militar em questões de segurança. Na ligação, diga o endereço ou a localização, um ponto de referência, o tipo de ocorrência, quantas pessoas estão envolvidas ou feridas, o estado das vítimas e outros riscos, como vazamento de gás, fios expostos ou incêndio.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Telefones 199 (Defesa Civil), 193 (Bombeiros), 192 (SAMU) e 190 (Polícia Militar)",
+    "fonte": "https://www.gov.br/mcom/pt-br/noticias/2026/setembro/emergencia-voce-sabe-para-quem-ligar-quando-precisa-de-ajuda (verificado em 04/11/2026)"
+  },
+  {
+    "id": 4,
+    "titulo": "Como se preparar antes da chuva forte",
+    "categoria": "Antes e durante a enchente",
+    "descricao": "Acompanhe os canais oficiais da Defesa Civil e conheça o Plano de Contingência do seu município. Prepare um kit de emergência com documentos, água, roupas e medicamentos. Quem mora em área com histórico de alagamento deve perguntar à Defesa Civil se precisa deixar o local e deve proteger os animais domésticos. Mantenha calhas e ralos em boas condições e avise a Defesa Civil sobre bueiros entupidos ou danificados.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Defesa Civil do seu município",
+    "fonte": "https://estado.rs.gov.br/saiba-como-agir-em-caso-de-inundacoes (verificado em 04/11/2026)"
+  },
+  {
+    "id": 5,
+    "titulo": "O que fazer durante a enchente",
+    "categoria": "Antes e durante a enchente",
+    "descricao": "Evite contato com a água da enchente, que pode causar doenças. Se estiver em local seguro, não saia. Não atravesse ruas alagadas: você pode ser arrastado pela água. Cuidado com buracos e bueiros sem tampa ou cobertos pela água. Use calçado, calça comprida e blusa. Não deixe crianças brincarem na enxurrada ou em córregos. Se a água estiver subindo, leve a família para um lugar seguro. Se precisar retirar algo de casa depois da inundação, peça ajuda à Defesa Civil ou ao Corpo de Bombeiros.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Local seguro e alto; em caso de risco, ligue 199 (Defesa Civil) ou 193 (Bombeiros)",
+    "fonte": "https://prefeitura.sp.gov.br/web/defesa_civil/w/cuidados_importantes/179951 (verificado em 04/11/2026)"
+  },
+  {
+    "id": 6,
+    "titulo": "O que fazer se a enchente pegar você de carro",
+    "categoria": "Antes e durante a enchente",
+    "descricao": "Reduza a velocidade, mantenha distância do veículo da frente e procure parar em local alto e livre de alagamento. Nunca atravesse áreas cobertas por água. Se não houver outra opção, dirija devagar e espere o outro veículo passar totalmente antes de seguir.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Local alto e livre de alagamento",
+    "fonte": "https://prefeitura.sp.gov.br/web/defesa_civil/w/cuidados_importantes/179951 (verificado em 04/11/2026)"
+  },
+  {
+    "id": 7,
+    "titulo": "Quando voltar para casa depois de evacuar",
+    "categoria": "Antes e durante a enchente",
+    "descricao": "Não volte para a área evacuada até a liberação oficial. Siga as orientações das autoridades e mantenha-se informado sobre a evolução da situação pelos canais da Defesa Civil.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Canais oficiais da Defesa Civil do seu estado ou município",
+    "fonte": "https://estado.rs.gov.br/saiba-como-agir-em-caso-de-inundacoes (verificado em 04/11/2026)"
+  },
+  {
+    "id": 8,
+    "titulo": "Como deixar a água segura para beber depois da enchente",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Primeiro lave as mãos e os braços e use um recipiente limpo, com tampa, só para a água tratada. Opção 1: filtre ou coe a água (filtro, coador de papel ou pano limpo), pingue 2 gotas de hipoclorito de sódio a 2,5% para cada 1 litro, misture e espere 30 minutos antes de beber. Use essa água em até 24 horas. A água sanitária só pode substituir o hipoclorito se tiver cloro ativo de 2,0% a 2,5% e nenhum outro aditivo, como alvejante, desinfetante, essência ou perfume. Opção 2, se não tiver hipoclorito: filtre e ferva por 5 minutos, contados a partir do início da fervura, deixe esfriar e chacoalhe antes de beber.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Em casa",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes/cuidados-com-a-agua (verificado em 04/11/2026)"
+  },
+  {
+    "id": 9,
+    "titulo": "Quais alimentos jogar fora depois da enchente",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Jogue fora qualquer alimento que teve contato com a água da enchente, mesmo os que estavam em embalagem fechada. Isso inclui alimentos embalados, enlatados e perecíveis, como frutas, legumes e verduras. Não consuma alimentos embalados que ficaram submersos, nem latas amassadas, danificadas ou enferrujadas. Lave utensílios e superfícies da cozinha com água limpa e sabão antes de usar.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Em casa",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/maio/ministerio-da-saude-orienta-sobre-cuidados-essenciais-a-populacao-no-pos-enchente (verificado em 04/11/2026)"
+  },
+  {
+    "id": 10,
+    "titulo": "Leptospirose: como evitar e quando procurar atendimento",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Evite o contato da pele com a água da enchente: ela pode transmitir doenças mesmo sem machucado. Febre e dores no corpo, especialmente na região lombar ou na panturrilha, depois de contato com a água da enchente: procure atendimento médico imediatamente.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Unidade de saúde ou pronto atendimento mais próximo; em urgência, SAMU 192",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/maio/ministerio-da-saude-orienta-sobre-cuidados-essenciais-a-populacao-no-pos-enchente (verificado em 04/11/2026)"
+  },
+  {
+    "id": 11,
+    "titulo": "Ferimentos, tétano e animais peçonhentos na limpeza",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Ao mexer em destroços, use luvas e botas. Ferimentos com objetos contaminados podem causar tétano; mantenha as vacinas em dia. Escorpiões, cobras e aranhas podem se abrigar em casas e entulhos: não toque neles, mesmo que pareçam mortos, e acione as autoridades para a remoção.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Serviço de saúde do seu município (vacina e atendimento); Defesa Civil (199) ou Bombeiros (193) para remover animais",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/maio/ministerio-da-saude-orienta-sobre-cuidados-essenciais-a-populacao-no-pos-enchente (verificado em 04/11/2026)"
+  },
+  {
+    "id": 12,
+    "titulo": "Diarreia e outros sintomas depois da enchente",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Depois de uma enchente, fique atento a diarreia, febre, dor de cabeça, náuseas ou vômitos, cólicas e dor abdominal, e sangue ou muco nas fezes. Se tiver sintomas e três ou mais episódios de diarreia em 24 horas, procure atendimento médico. Tenha cuidado com a água, os alimentos e a higiene.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Unidade de saúde ou pronto atendimento mais próximo",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes (verificado em 04/11/2026)"
+  },
+  {
+    "id": 13,
+    "titulo": "Cuidar da saúde mental depois da enchente",
+    "categoria": "Saúde depois da enchente",
+    "descricao": "Depois de uma enchente é comum sofrer abalo emocional, e existe o risco de transtorno de estresse pós-traumático. Mantenha contato com familiares e amigos, compartilhe o que está sentindo e busque apoio psicológico se precisar.",
+    "requisitos": "Nenhum documento informado pela fonte",
+    "local": "Serviços de apoio psicológico e de saúde do seu município",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/enchentes (verificado em 04/11/2026)"
+  },
+  {
+    "id": 14,
+    "titulo": "Saque Calamidade do FGTS: quem pode e quais documentos levar",
+    "categoria": "Dinheiro e documentos",
+    "descricao": "O Saque Calamidade serve para necessidade pessoal, urgente e grave causada por desastre natural que atingiu a sua residência, depois de declaração oficial da Defesa Civil do seu município. O município precisa estar habilitado pela CAIXA; o site do FGTS mostra a lista de municípios habilitados.",
+    "requisitos": "Documento de identidade; CPF; Comprovante de residência em seu nome, emitido nos 120 dias anteriores à decretação da emergência ou calamidade (conta de luz, água, telefone, gás ou extrato bancário); Sem comprovante: declaração do governo municipal ou do DF atestando que você mora na área afetada (o site também prevê declaração própria, conforme o Decreto nº 12.019); Certidão de Casamento ou Escritura Pública de União Estável, se o comprovante estiver em nome do cônjuge ou companheiro(a); Só no atendimento presencial: CTPS física ou digital, ou outro documento de vínculo empregatício",
+    "local": "Aplicativo FGTS ou agência da CAIXA",
+    "fonte": "https://www.fgts.gov.br/Paginas/trabalhador/saque-calamidade.aspx (verificado em 04/11/2026)"
+  },
+  {
+    "id": 15,
+    "titulo": "Saque Calamidade do FGTS: como pedir, valor e prazo",
+    "categoria": "Dinheiro e documentos",
+    "descricao": "Pelo aplicativo FGTS, vá em Saques, escolha Calamidade pública, informe o município, o CEP e o número da residência, envie o comprovante, escolha como receber (crédito em conta de qualquer banco ou saque presencial) e confirme; a CAIXA analisa o pedido. Dá para sacar até R$ 6.220,00 de cada conta do FGTS, limitado ao saldo. O pedido pode ser feito até 90 dias depois da publicação da portaria do Ministério da Integração e do Desenvolvimento Regional que reconhece a emergência ou a calamidade. O saque pode ser liberado a cada evento de desastre natural, com intervalo mínimo de 12 meses entre saques. Com dificuldade no aplicativo, ligue 4004 0104 (capitais e regiões metropolitanas) ou 0800 104 0 104 (demais regiões).",
+    "requisitos": "Os mesmos da orientação \"Saque Calamidade do FGTS: quem pode e quais documentos levar\"",
+    "local": "Aplicativo FGTS ou agência da CAIXA",
+    "fonte": "https://www.fgts.gov.br/Paginas/trabalhador/saque-calamidade.aspx (verificado em 04/11/2026)"
+  },
+  {
+    "id": 16,
+    "titulo": "Pedir a segunda via do cartão de CPF perdido",
+    "categoria": "Dinheiro e documentos",
+    "descricao": "É gratuito. Com conta gov.br nível prata ou ouro, emita pelo portal da Receita Federal em \"Emitir Meu Cartão de CPF (2ª via)\". Sem conta gov.br, há a opção \"Emitir Meu Cartão de CPF (2ª via) Sem Gov.br\", indicada para quem não entregou declaração de imposto de renda nos últimos dois anos. Também dá para pedir por e-mail (retorno em cerca de 48 horas) ou presencialmente em unidades da Receita Federal, indicado para quem não sabe o próprio número do CPF.",
+    "requisitos": "Documento oficial de identificação com foto; Pedido por e-mail: foto sua segurando o documento com foto perto do rosto, com o documento inteiro e nítido; Pedido por outra pessoa: documento dela e procuração ou termo de curatela",
+    "local": "Portal da Receita Federal (conta gov.br), e-mail ou unidade presencial da Receita Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf (verificado em 04/11/2026)"
+  }
+]
